@@ -1,0 +1,18 @@
+.button {
+  color: #fff;
+  display: inline-block;
+  border: 0;
+  text-decoration: none;
+  padding: 8px 13px 7px;
+  border-radius: 3px;
+  font-size: 14px;
+}
+
+.button_main {
+  background-color: #9D0208;
+}
+
+.button_yellow {
+  background-color: #ff0;
+  color: #000;
+}
